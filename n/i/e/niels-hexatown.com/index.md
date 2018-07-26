@@ -1,5 +1,5 @@
 ---
-Title: Niels Gregers Johansen$
+title: Niels Gregers Johansen
 ---
 
 # Hello my man !
