@@ -12,5 +12,6 @@ Our ambition: *”To create a PANDORA global digital workspace
 that will boost organizational cohesion, transparency and culture – and grow into a vibrant digital workplace with a strong sense of pride, passion and performance.”*                                                                Peter Vekslund, CFO
 
 We use jumpto365.com to support this.
+https://preview.app.jumpto365.com/scenario/generic/pandora-online-meetings/default
 
-[Online Meetings](./scenario/generic/pandora-online-meetings/default)
+[Online Meetings](https://preview.app.jumpto365.com/scenario/generic/pandora-online-meetings/default)
