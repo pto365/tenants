@@ -13,4 +13,4 @@ that will boost organizational cohesion, transparency and culture – and grow 
 
 We use jumpto365.com to support this.
 
-[Online Meetings](https://preview.app.jumpto365.com/scenario/generic/pandora-online-meetings/default)
+[Online Meetings](./scenario/generic/pandora-online-meetings/default)
