@@ -11,7 +11,8 @@ logo: https://placewise.imgix.net/images/api/retailhubjs/fe27e66fccd387cd97fe1f5
 Our ambition: *”To create a PANDORA global digital workspace 
 that will boost organizational cohesion, transparency and culture – and grow into a vibrant digital workplace with a strong sense of pride, passion and performance.”*                                                                Peter Vekslund, CFO
 
-We use jumpto365.com to support this.
-https://preview.app.jumpto365.com/scenario/generic/pandora-online-meetings/default
+We are now exploring www.jumpto365.com to see if that service can support us in discovering and learning the tools.
 
-[Online Meetings](https://preview.app.jumpto365.com/scenario/generic/pandora-online-meetings/default)
+## Which tool to use for  
+- [Online Meetings](https://preview.app.jumpto365.com/scenario/generic/pandora-online-meetings/default)
+- ... will be extended
