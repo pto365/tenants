@@ -9,7 +9,7 @@ logo: https://placewise.imgix.net/images/api/retailhubjs/fe27e66fccd387cd97fe1f5
 
 *”To create a PANDORA global digital workspace 
 that will boost organizational cohesion, transparency and culture – and grow into a vibrant digital workplace with a strong sense of pride, passion and performance.”*                                                       
-Peter Vekslund, CFO
+
 
 ## A step forward
 
