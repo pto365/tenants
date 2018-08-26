@@ -21,8 +21,10 @@ We are now exploring www.jumpto365.com to see if that service can support us in 
 ## Which tool to use when
 
 - [Online Meetings](https://preview.app.jumpto365.com/scenario/generic/pandora-online-meetings/default)
-- ... will be extended
+
+... will be extended
 
 ## A word from the authors of the tool
-We hope that you will love it, cheers from
+We hope that you will love it, cheers ...
+
 ![COMPONENT](https://dummyimage.com/300x200/000/fff&text=MattNiels&/MattNiels)
