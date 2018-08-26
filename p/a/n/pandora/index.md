@@ -5,7 +5,7 @@ icon: https://raw.githubusercontent.com/pto365/tenant-pandora/master/White-pando
 logo: https://placewise.imgix.net/images/api/retailhubjs/fe27e66fccd387cd97fe1f54495b858c
 ---
 
-![{"style":{margin:"16px","margin-Top":"-16px", "float":"left","width":"50%","min-width":"50%","border":"0px dashed red"}}](https://raw.githubusercontent.com/Pandora-jumpto365/pandora-jumpto365.github.io/master/media/2018-08-23-17-46-11.png)
+![{"style":{"margin":"16px","margin-Top":"-16px", "float":"left","width":"50%","min-width":"50%","border":"0px dashed red"}}](https://raw.githubusercontent.com/Pandora-jumpto365/pandora-jumpto365.github.io/master/media/2018-08-23-17-46-11.png)
 
 
 # Our ambition
