@@ -1,8 +1,8 @@
 ---
 title: Our Digital Workspace
 color: #005776
-icon: https://raw.githubusercontent.com/pto365/tenants/master/n/e/t/nets/logo.svg
-logo: https://raw.githubusercontent.com/pto365/tenants/master/n/e/t/nets/logo.svg
+icon: https://raw.githubusercontent.com/pto365/tenants/master/n/e/t/nets/Nets_new_Logo_news.jpg
+logo: https://raw.githubusercontent.com/pto365/tenants/master/n/e/t/nets/Nets_new_Logo_news.jpg
 ---
 
 # Our ambition
