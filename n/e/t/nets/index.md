@@ -15,7 +15,7 @@ that will boost organizational cohesion, transparency and culture – and grow 
 
 We are now exploring www.jumpto365.com to see if that service can support us in discovering and learning the tools used in our global digital workspace.
 
-[IFRAME](https://www.youtube.com/embed/mz9KLOnkT6I)
+[IFRAME](https://web.microsoftstream.com/embed/video/f803715e-8682-4ecb-9ea8-26079f098579?autoplay=false&showinfo=true)
 
 ## Which tool to use when
 
