@@ -18,11 +18,11 @@ We are now exploring www.jumpto365.com to see if that service can support us in 
 
 ## Which tool to use when
 
-- [Running an effective Online Meeting with Skype](https://preview.app.jumpto365.com/scenario/generic/pandora-online-meetings/default)
+- Running an effective Online Meeting with Skype
 - Managing your Documents in OneDrive for Business
 - Real Time Communication and Collaboration
 - Building an INFORA site - part 1
 - Building an INFORA site - part 2
 - Advanced Publishing with INFORA
-- Using Yammer
+- [Using Yammer](https://preview.app.jumpto365.com/scenario/generic/yammer/taskarea)
 - Collaborating in Teams & Projects
