@@ -16,13 +16,15 @@ that will boost organizational cohesion, transparency and culture – and grow i
 
 We are now exploring www.jumpto365.com to see if that service can support us in discovering and learning the tools used in our global digital workspace.
 
-## Which tool to use when
+## How can you 
 
-- Running an effective Online Meeting with Skype
-- Managing your Documents in OneDrive for Business
-- Real Time Communication and Collaboration
-- Building an INFORA site - part 1
-- Building an INFORA site - part 2
-- Advanced Publishing with INFORA
-- [Using Yammer](https://preview.app.jumpto365.com/scenario/generic/yammer/taskarea)
-- Collaborating in Teams & Projects
+- Run an effective Online Meeting with Skype
+- Manage your Documents in OneDrive for Business
+- Do Real Time Communication and Collaboration
+- Build an INFORA site (part 1)
+- Build an INFORA site (part 2)
+- Make advanced Publishing with INFORA
+- [Use Yammer](https://preview.app.jumpto365.com/scenario/generic/yammer/taskarea)
+- Collaborate in Teams & Projects
+
+*Note that only one area has been choosen for Proof of Concet - "Use Yammer"*
