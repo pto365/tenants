@@ -2,7 +2,7 @@
 title: HNE Jagt 2018-2019
 ---
 
-Mikkel J's far arbejder med at lave  www.jumpto365.com ...
+Mikkel J's far arbejder med at lave  www.jumpto365.com, mest med fokus på hvad Office 365 kan bruges til, men også meget andet...
 
 [IFRAME](https://www.youtube.com/embed/ZbP2fkZB3dY)
 
