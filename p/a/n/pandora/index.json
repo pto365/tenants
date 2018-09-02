@@ -5,12 +5,12 @@
         {
             "icon": "YammerLogo",
             "text": "Yammer - In general",
-            "path": "/scenario/generic/yammer"
+            "path": "/scenario/generic/yammer/taskarea"
         },
         {
             "icon": "YammerLogo",
             "text": "Yammer - In Pandora",
-            "path": "/scenario/generic/pandora-yammer"
+            "path": "/scenario/generic/pandora-yammer/taskarea"
         }
 
     ]
