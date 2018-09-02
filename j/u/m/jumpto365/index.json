@@ -1,0 +1,22 @@
+{
+    "name": "Jumpto365",
+    "domains": ["hexatown.com", "jumpto365.com"],
+    "navigation": [
+        {
+            "icon": "YammerLogo",
+            "text": "Yammer - In general",
+            "path": "/scenario/generic/yammer"
+        },
+        {
+            "icon": "YammerLogo",
+            "text": "Yammer - In Pandora",
+            "path": "/scenario/generic/pandora-yammer"
+        },
+        {
+            "icon": "TaskManager",
+            "text": "My Tasks",
+            "path": "/scenario/generic/ngjoh"
+        }
+    ]
+
+}
