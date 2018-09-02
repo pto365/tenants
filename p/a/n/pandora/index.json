@@ -1,18 +1,14 @@
 {
     "name": "Pandora",
     "domains": ["hexatown.com", "jumpto365.com", "pandora.net"],
-    "navigation": [{
-            "icon": "home",
-            "text": "Home",
-            "path": "/@/pandora"
-        },
+    "navigation": [
         {
-            "icon": "repair",
+            "icon": "YammerLogo",
             "text": "Yammer - In general",
             "path": "/scenario/generic/yammer"
         },
         {
-            "icon": "repair",
+            "icon": "YammerLogo",
             "text": "Yammer - In Pandora",
             "path": "/scenario/generic/pandora-yammer"
         }
