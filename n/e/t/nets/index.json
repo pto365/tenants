@@ -1,0 +1,13 @@
+{
+    "name": "Nets",
+    "domains": ["hexatown.com", "jumpto365.com", "christianiabpos.com","nets.eu"],
+    "navigation": [
+        {
+            "icon": "YammerLogo",
+            "text": "Yammer - In general",
+            "path": "/scenario/generic/yammer/taskarea"
+        }
+
+    ]
+
+}
