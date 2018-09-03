@@ -1,0 +1,22 @@
+{
+    "name": "Jumpto365 - Level 0",
+    "domains": ["hexatown.com", "jumpto365.com"],
+    "navigation": [
+        {
+            "icon": "YammerLogo",
+            "text": "Yammer - In general",
+            "path": "/scenario/generic/yammer/taskarea"
+        },
+        {
+            "icon": "Cloudy",
+            "text": "What do you use today?",
+            "path": "/pages/docs/features/tooldiscovery"
+        },
+        {
+            "icon": "TaskManager",
+            "text": "My Tasks",
+            "path": "/scenario/generic/ngjoh/taskarea"
+        }
+    ]
+
+}
