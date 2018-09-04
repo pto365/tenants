@@ -1,0 +1,19 @@
+{
+    "name": "Niels",
+    "domains": ["hexatown.com", "jumpto365.com"],
+    "navigation": [
+        {
+            "icon": "YammerLogo",
+            "text": "Yammer - In general",
+            "path": "/scenario/generic/yammer/taskarea"
+        },
+        {
+            "icon": "FileBug",
+            "text": "Service Desk",
+            "path": "/pages/docs/samples/powerapps"
+        }
+
+
+    ]
+
+}
