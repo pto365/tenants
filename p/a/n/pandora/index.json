@@ -12,7 +12,18 @@
             "text": "Yammer - In Pandora",
             "path": "/scenario/generic/pandora-yammer/taskarea"
         }
-
+,
+        {
+            "icon": "Accounts",
+            "text": "Pandora",
+            "path": "/@/pandora"
+        }
+,
+        {
+            "icon": "Accounts",
+            "text": "Niels",
+            "path": "/@/niels"
+        }
     ]
 
 }
