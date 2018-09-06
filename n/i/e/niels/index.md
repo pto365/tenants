@@ -1,5 +1,10 @@
 ---
-title: Niels Gregers Johansen
+title: Niels' Modern Workspace
 ---
 
-# Hello my man !
+
+| Tasks  |   |   |   |   |
+|---|---|---|---|---|
+| Daily   | [SharePoint](.)  |   |   |   |
+| Weekly  |   |   |   |   |
+| Monthly   |   |   |   |   |
