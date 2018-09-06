@@ -6,7 +6,7 @@ icon: https://media.licdn.com/dms/image/C5603AQEmWmNvKCB5ww/profile-displayphoto
 
 | Tasks  |   |   |   |   |
 |---|---|---|---|---|
-| Daily   | [SharePoint](https://preview.app.jumpto365.com/tool/sharepoint)  | ![WIREFRAME](https://dummyimage.com/300x200/000/fff&text=Service Tasks&/MattNiels)   |   |   |
+| Daily   | [SharePoint](https://preview.app.jumpto365.com/tool/sharepoint)  | ![WIREFRAME](https://dummyimage.com/300x200/000/fff&text=Service%20Tasks)   |   |   |
 |   | [Azure AD](https://preview.app.jumpto365.com/tool/sharepoint)  |   |   |   |
 | Weekly  |   |   |   |   |
 | Monthly   |   |   |   |   |
