@@ -17,7 +17,13 @@
             "icon": "SearchAndApps",
             "text": "Tool Search BOT",
             "path": "/pages/docs/features/toolbot"
-        }
+        },
+        {
+            "icon": "LaptopSelected",
+            "text": "About 'Digital Workspace'",
+            "path": "/pages/docs/area/digitalworkspace"
+        },
+        
 
     ]
 
