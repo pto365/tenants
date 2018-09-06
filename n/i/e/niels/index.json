@@ -12,7 +12,12 @@
             "text": "Service Desk",
             "path": "/pages/docs/samples/servicedesk"
         }
-
+,
+        {
+            "icon": "SearchAndApps",
+            "text": "Tool Search BOT",
+            "path": "/pages/docs/features/toolbot"
+        }
 
     ]
 
