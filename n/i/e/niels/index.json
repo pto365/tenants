@@ -20,9 +20,9 @@
         },
         {
             "icon": "LaptopSelected",
-            "text": "About 'Digital Workspace'",
+            "text": "About \'Digital Workspace\'",
             "path": "/pages/docs/area/digitalworkspace"
-        },
+        }
         
 
     ]
