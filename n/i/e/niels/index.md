@@ -6,6 +6,7 @@ icon: https://media.licdn.com/dms/image/C5603AQEmWmNvKCB5ww/profile-displayphoto
 
 | Tasks  |   |   |   |   |
 |---|---|---|---|---|
-| Daily   | [SharePoint](.)  |   |   |   |
+| Daily   | [SharePoint](https://preview.app.jumpto365.com/tool/sharepoint)  |   |   |   |
+|   | [Azure AD](https://preview.app.jumpto365.com/tool/sharepoint)  |   |   |   |
 | Weekly  |   |   |   |   |
 | Monthly   |   |   |   |   |
