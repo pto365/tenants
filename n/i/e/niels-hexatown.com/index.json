@@ -1,0 +1,28 @@
+{
+	"name": "Niels",
+	"domains": ["hexatown.com", "jumpto365.com"],
+	"navigation": [{
+			"icon": "YammerLogo",
+			"text": "Yammer - In general",
+			"path": "/scenario/generic/yammer/taskarea"
+		},
+		{
+			"icon": "FileBug",
+			"text": "Service Desk",
+			"path": "/pages/docs/samples/servicedesk"
+		},
+		{
+			"icon": "SearchAndApps",
+			"text": "Tool Search BOT",
+			"path": "/pages/docs/features/toolbot"
+		},
+		{
+			"icon": "LaptopSelected",
+			"text": "About 'Digital Workspace'",
+			"path": "/pages/docs/area/digitalworkspace"
+		}
+
+
+	]
+
+}
