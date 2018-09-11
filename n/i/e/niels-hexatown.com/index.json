@@ -7,6 +7,17 @@
 			"path": "/scenario/generic/yammer/taskarea"
 		},
 		{
+			"icon": "LaptopSecure",
+			"text": "Security & Compliance",
+			"path": "/context/security-and-compliance"
+		},
+		
+		{
+			"icon": "ServerProcesses",
+			"text": "AI",
+			"path": "/context/ai"
+		},
+		{
 			"icon": "FileBug",
 			"text": "Service Desk",
 			"path": "/pages/docs/samples/servicedesk"
