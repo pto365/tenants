@@ -10,8 +10,13 @@
 			"icon": "LaptopSecure",
 			"text": "Security & Compliance",
 			"path": "/context/security-and-compliance"
+		}
+		,
+		{
+			"icon": "LaptopSelected",
+			"text": "Processes",
+			"path": "/pages/docs/processes"
 		},
-		
 		{
 			"icon": "ServerProcesses",
 			"text": "AI",
@@ -26,13 +31,7 @@
 			"icon": "SearchAndApps",
 			"text": "Tool Search BOT",
 			"path": "/pages/docs/features/toolbot"
-		},
-		{
-			"icon": "LaptopSelected",
-			"text": "About 'Digital Workspace'",
-			"path": "/pages/docs/area/digitalworkspace"
 		}
-
 
 	]
 
