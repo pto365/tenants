@@ -2,6 +2,7 @@
 title: Welcome on board!
 icon: https://images-na.ssl-images-amazon.com/images/I/715vwvP5ZEL.png
 color: #1BC98E
+source: https://www.thebalancecareers.com/new-employee-welcome-aboard-letter-example-2064229
 ---
 We are very happy to welcome you to the sales team here at Specialty Stones. You are joining us at an exciting time of year, as we are moving into our busiest season.
 
