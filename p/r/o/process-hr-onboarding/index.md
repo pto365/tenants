@@ -12,4 +12,7 @@ As we discussed during your interview, we are projecting unprecedented growth th
 
 When you arrive on Monday, November 14, stop by my office and I'll show you to yours and introduce you to Marc and Karen who were out of town during your second interview. We are all looking forward to working with you and are certain that you'll be a great fit for this team. Welcome aboard!
 
-- (Our Digital Workplace)[https://preview.app.jumpto365.com/scenario/microsoft/microsoft365]
+Before that, check some of the cool tools which we use
+- [Our Digital Workplace - Office 365](https://preview.app.jumpto365.com/scenario/microsoft/microsoft365)
+- [Social Platform - Yammer](https://preview.app.jumpto365.com/scenario/generic/yammer/taskarea)
+- [Service Desk](https://preview.app.jumpto365.com/pages/docs/samples/servicedesk)
