@@ -1,7 +1,13 @@
 {
 	"name": "Niels",
 	"domains": ["hexatown.com", "jumpto365.com"],
-	"navigation": [{
+	"navigation": [
+		{
+			"icon": "LaptopSelected",
+			"text": "Processes",
+			"path": "/pages/docs/processes"
+		},
+		{
 			"icon": "YammerLogo",
 			"text": "Yammer - In general",
 			"path": "/scenario/generic/yammer/taskarea"
@@ -11,28 +17,6 @@
 			"text": "Security & Compliance",
 			"path": "/context/security-and-compliance"
 		}
-		,
-		{
-			"icon": "LaptopSelected",
-			"text": "Processes",
-			"path": "/pages/docs/processes"
-		},
-		{
-			"icon": "ServerProcesses",
-			"text": "AI",
-			"path": "/context/ai"
-		},
-		{
-			"icon": "FileBug",
-			"text": "Service Desk",
-			"path": "/pages/docs/samples/servicedesk"
-		},
-		{
-			"icon": "SearchAndApps",
-			"text": "Tool Search BOT",
-			"path": "/pages/docs/features/toolbot"
-		}
-
 	]
 
 }
