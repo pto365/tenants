@@ -1,8 +1,8 @@
 ---
 title: ATP Ejendomme
 logo: https://estatemedia.dk/dk/wp-content/uploads/2018/02/atp.png
-icon: https://estatemedia.dk/dk/wp-content/uploads/2018/02/atp.png
-color: green
+icon: https://media.licdn.com/dms/image/C510BAQGoAGBeE6r1uw/company-logo_200_200/0?e=2159024400&v=beta&t=wC6rHEho0fJTJYTqwSqJwckNt_bk5_0VnnRcDJmzRC4
+color: #A2BA40
 ---
 
 I forbindelse med vores overgang til Office 365 vil vi gerne have dig til at beskrive hvilke værktøjer det er du benytter i dag.
