@@ -1,9 +1,9 @@
 {
-    "name": "Pandora",
+    "name": "ATP Ejendomme",
     "domains": ["hexatown.com", "jumpto365.com", "pandora.net"],
     "navigation": [
         {
-            "icon": "Accounts",
+            "icon": "OfficeFormsLogo",
             "text": "Hvad bruger du i dag?",
             "path": "https://forms.office.com/Pages/ResponsePage.aspx?id=ybiW36FRz0C4sUUUvo6WaOUu0FiAr4FPsUQXNLd8AslUQjVFOFUzNTlTSk1PQ0FWMkZZQ1ExTFBKNy4u&embed=true"
         }
