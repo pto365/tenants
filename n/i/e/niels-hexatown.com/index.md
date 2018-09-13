@@ -4,9 +4,11 @@ icon: https://media.licdn.com/dms/image/C5603AQEmWmNvKCB5ww/profile-displayphoto
 ---
 
 
-| Tasks  |   |   |   |   |
-|---|---|---|---|---|
-| Daily   | [SharePoint](https://preview.app.jumpto365.com/tool/sharepoint)  | ![WIREFRAME](https://dummyimage.com/300x200/000/fff&text=Service%20Tasks)   |   |   |
-|   | [Azure AD](https://preview.app.jumpto365.com/tool/sharepoint)  |   |   |   |
-| Weekly  |   |   |   |   |
-| Monthly   |   |   |   |   |
+## Processes
+- [HR Onboarding](https://preview.app.jumpto365.com/scenario/generic/onboard)
+
+
+## Cases
+- [Pandora](https://preview.app.jumpto365.com/@/pandora)
+- [Nets](https://preview.app.jumpto365.com/@/nets)
+- [ATP Ejendomme](https://preview.app.jumpto365.com/@/atp-ejendomme)
