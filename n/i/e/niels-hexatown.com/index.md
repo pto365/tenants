@@ -11,4 +11,3 @@ icon: https://media.licdn.com/dms/image/C5603AQEmWmNvKCB5ww/profile-displayphoto
 ## Cases
 - [Pandora](https://preview.app.jumpto365.com/@/pandora)
 - [Nets](https://preview.app.jumpto365.com/@/nets)
-- [ATP Ejendomme](https://preview.app.jumpto365.com/@/atp-ejendomme)
