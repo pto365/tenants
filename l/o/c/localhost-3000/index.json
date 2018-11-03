@@ -1,5 +1,6 @@
 {
     "name": "Develop",
+    "clientID": "5a473557-a9d3-4378-90f1-e9cd3a38006f",
     "domains": ["hexatown.com", "jumpto365.com", "pandora.net"],
     "navigation": [
         {
