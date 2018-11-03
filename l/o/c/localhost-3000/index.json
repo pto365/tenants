@@ -1,0 +1,19 @@
+{
+    "name": "Develop",
+    "domains": ["hexatown.com", "jumpto365.com", "pandora.net"],
+    "navigation": [
+        {
+            "icon": "YammerLogo",
+            "text": "Yammer - In general",
+            "path": "/scenario/generic/yammer/taskarea"
+        },
+
+
+        {
+            "icon": "Accounts",
+            "text": "Niels",
+            "path": "/@/niels"
+        }
+    ]
+
+}
