@@ -1,0 +1,21 @@
+{
+    "name": "Develop Intra365",
+    "clientID": "5a473557-a9d3-4378-90f1-e9cd3a38006f",
+    "root" : "intra365",
+    "domains": ["hexatown.com", "jumpto365.com", "pandora.net"],
+    "navigation": [
+        {
+            "icon": "YammerLogo",
+            "text": "Yammer - In general",
+            "path": "/scenario/generic/yammer/taskarea"
+        },
+
+
+        {
+            "icon": "Accounts",
+            "text": "Niels",
+            "path": "/@/niels"
+        }
+    ]
+
+}
