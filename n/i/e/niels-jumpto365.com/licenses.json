@@ -1,4 +1,33 @@
 {
-"about":"",
-"licenses":[]
+    "licenses": [{
+        "SKU": "DASHBOARD-PERSONAL",
+        "Expires": "20181231",
+        "Issuer": "",
+        "Description": "Personal Dashboard",
+        "endpoints": [{
+                "subject": "You",
+                "data": "https://graph.microsoft.com/v1.0/me/",
+                "template": "",
+                "permissions": ["https://graph.microsoft.com/user.read"]
+            },
+            {
+                "subject": "Your Messages",
+                "data": "https://graph.microsoft.com/v1.0/me/messages",
+                "template": "",
+                "permissions": ["https://graph.microsoft.com/mail.read"]
+            },
+            {
+                "subject": "Your OneDrive",
+                "data": "https://graph.microsoft.com/v1.0/me/drive",
+                "template": "",
+                "permissions": ["https://graph.microsoft.com/files.read"]
+            },
+            {
+                "subject": "Your Sites",
+                "data": "https://graph.microsoft.com/v1.0/me/sites/root",
+                "template": "",
+                "permissions": ["https://graph.microsoft.com/Sites.Read.All"]
+            }
+        ]
+    }]
 }
