@@ -1,0 +1,12 @@
+{
+	"name": "Niels",
+	"domains": ["hexatown.com", "jumpto365.com"],
+	"navigation": [
+		{
+			"icon": "FavoriteList",
+			"text": "Nets",
+			"path": "/@/ngjoih@nets.eu/-"
+		}
+	]
+
+}
