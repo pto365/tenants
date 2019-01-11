@@ -13,7 +13,10 @@
     "contexts" : {
         "default" : {
             "title": "of Office365",
-            "settings": {},
+            "settings": {
+              "titlegraphics": "https://www.nets.eu/design-guide/PublishingImages/basics/CVI_online_basics-01-02b.png",
+              "tileactiontype": "externallink"
+            },
             "color": "#256FB0",
             "icon": "https://jumpto365.com/resources/images/app/jumpto365-Icon-white.png",
             "groups": [
