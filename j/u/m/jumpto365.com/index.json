@@ -5,7 +5,7 @@
   "navigation": [],
   "contexts": {
     "default": {
-      "title": "of Office365",
+      "version": 2,
       "settings": {
         "byline": "Developed by Niels Gregers Johansen - jumpto365.com- niels@jumpto365.com",
         "titlegraphics": "https://jumpto365.com/resources/images/app/Title-EN.png"
@@ -25,6 +25,7 @@
               "color": "",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -39,7 +40,9 @@
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": 1,
-              "jumpto": "https://home.dynamics.com/"
+              "jumpto": "",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/dynamics365"
             },
             "rightData": null,
             "bottomData": null,
@@ -86,6 +89,7 @@
               "color": "",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -142,7 +146,9 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://www.office.com/launch/sway"
+              "jumpto": "",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/sway"
             },
             "rightData": {
               "key": "pres",
@@ -150,6 +156,7 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "sway",
@@ -163,6 +170,7 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -184,6 +192,7 @@
               "color": "",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -198,7 +207,9 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://web.microsoftstream.com/"
+              "jumpto": "https://web.microsoftstream.com/",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/stream"
             },
             "rightData": null,
             "bottomData": null,
@@ -216,13 +227,15 @@
             "centerData": {
               "key": "visio",
               "title": "Visio Online",
-              "color": "#aaaaaa",
+              "color": "#4568c4",
               "icon": "https://jumpto365.com/resources/images/app/Visio.png",
               "inShort": "Diagramming in the browser",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": 1,
-              "jumpto": "https://office.live.com/start/Visio.aspx"
+              "jumpto": "",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/visio"
             },
             "rightData": null,
             "bottomData": null,
@@ -246,7 +259,9 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/emp"
             },
             "rightData": null,
             "bottomData": {
@@ -255,6 +270,7 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "delve",
@@ -276,6 +292,7 @@
               "color": "",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -290,20 +307,23 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://office.live.com/start/Word.aspx"
+              "jumpto": "https://office.live.com/start/Word.aspx",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/word"
             },
             "rightData": {
               "key": "<",
               "title": "<",
-              "color": "#9CDDF2",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
-                "index": 3
+                "c": "#AAE29F",
+                "index": 6
               }
             },
             "bottomData": null,
@@ -319,15 +339,16 @@
             "leftData": {
               "key": "<",
               "title": "<",
-              "color": "#9CDDF2",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
-                "index": 4
+                "c": "#AAE29F",
+                "index": 6
               }
             },
             "topData": null,
@@ -340,20 +361,23 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://office.live.com/start/Excel.aspx"
+              "jumpto": "https://office.live.com/start/Excel.aspx",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/excel"
             },
             "rightData": {
               "key": "<",
               "title": "<",
-              "color": "#9CDDF2",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
-                "index": 4
+                "c": "#AAE29F",
+                "index": 6
               }
             },
             "bottomData": null,
@@ -369,15 +393,16 @@
             "leftData": {
               "key": "<",
               "title": "<",
-              "color": "#9CDDF2",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
-                "index": 5
+                "c": "#AAE29F",
+                "index": 6
               }
             },
             "topData": null,
@@ -390,20 +415,23 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://www.onenote.com/notebooks"
+              "jumpto": "https://www.onenote.com/notebooks",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/onenote"
             },
             "rightData": {
               "key": "<",
               "title": "<",
-              "color": "#9CDDF2",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
-                "index": 5
+                "c": "#AAE29F",
+                "index": 6
               }
             },
             "bottomData": null,
@@ -419,14 +447,15 @@
             "leftData": {
               "key": "<",
               "title": "<",
-              "color": "#9CDDF2",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
+                "c": "#AAE29F",
                 "index": 6
               }
             },
@@ -436,27 +465,31 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               }
             },
             "centerData": {
               "key": "powerpoint",
-              "title": "PowerPoint Online",
+              "title": "Powerpoint Online",
               "color": "#d24726",
               "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
               "inShort": "Presentations in the browser",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://office.live.com/start/PowerPoint.aspx"
+              "jumpto": "https://office.live.com/start/PowerPoint.aspx",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/powerpoint"
             },
             "rightData": {
               "key": "online",
-              "title": "Office Online",
+              "title": "Office Oline",
               "color": "#9CDDF2",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "powerpoint",
@@ -484,6 +517,7 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "sharepoint",
@@ -502,19 +536,23 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/sharepoint"
             },
             "rightData": {
               "key": ">",
               "title": ">",
-              "color": null,
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": null
+                "c": "#B2B3E2",
+                "index": 0
               }
             },
             "bottomData": null,
@@ -530,14 +568,15 @@
             "leftData": {
               "key": ">",
               "title": ">",
-              "color": "#AAE29F",
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#AAE29F",
+                "c": "#B2B3E2",
                 "index": 0
               }
             },
@@ -551,24 +590,27 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/onedrive"
             },
             "rightData": {
               "key": ">",
               "title": ">",
-              "color": "#AAE29F",
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#AAE29F",
+                "c": "#B2B3E2",
                 "index": 0
               }
             },
             "bottomData": null,
-            "connectorColor": "#AAE29F"
+            "connectorColor": "#B2B3E2"
           },
           {
             "key": "delve",
@@ -580,15 +622,16 @@
             "leftData": {
               "key": ">",
               "title": ">",
-              "color": "#AAE29F",
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#AAE29F",
-                "index": 1
+                "c": "#B2B3E2",
+                "index": 0
               }
             },
             "topData": {
@@ -597,6 +640,7 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -610,7 +654,9 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/delve"
             },
             "rightData": null,
             "bottomData": {
@@ -619,11 +665,12 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               }
             },
-            "connectorColor": "#AAE29F"
+            "connectorColor": "#B2B3E2"
           },
           {
             "key": "forms",
@@ -638,6 +685,7 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "forms",
@@ -655,20 +703,23 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://forms.office.com/"
+              "jumpto": "https://forms.office.com/",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/forms"
             },
             "rightData": {
               "key": ">",
               "title": ">",
-              "color": "#AAE29F",
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#AAE29F",
-                "index": 2
+                "c": "#B2B3E2",
+                "index": 0
               }
             },
             "bottomData": null,
@@ -687,12 +738,13 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
                 "c": "#B2B3E2",
-                "index": 3
+                "index": 0
               }
             },
             "topData": null,
@@ -705,7 +757,9 @@
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
-              "jumpto": "https://web.powerapps.com/home"
+              "jumpto": "https://web.powerapps.com/home",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/powerapps"
             },
             "rightData": {
               "key": "<",
@@ -713,12 +767,13 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
                 "c": "#AAE29F",
-                "index": 4
+                "index": 6
               }
             },
             "bottomData": null,
@@ -737,12 +792,13 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
                 "c": "#AAE29F",
-                "index": 5
+                "index": 6
               }
             },
             "topData": null,
@@ -755,7 +811,9 @@
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
-              "jumpto": "https://flow.microsoft.com/en-us/"
+              "jumpto": "https://flow.microsoft.com/en-us/",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/flow"
             },
             "rightData": {
               "key": "<",
@@ -763,12 +821,13 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
                 "c": "#AAE29F",
-                "index": 5
+                "index": 6
               }
             },
             "bottomData": null,
@@ -787,6 +846,7 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
@@ -798,14 +858,16 @@
             "topData": null,
             "centerData": {
               "key": "powerbi",
-              "title": "Power BI",
+              "title": "PowerBI",
               "color": "#f2c811",
               "icon": "https://jumpto365.com/resources/images/app/Power-BI.png",
               "inShort": "Business analytics & dashboards",
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": 1,
-              "jumpto": "https://app.powerbi.com/"
+              "jumpto": "https://app.powerbi.com/",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/powerbi"
             },
             "rightData": {
               "key": "biz",
@@ -813,6 +875,7 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "powerbi",
@@ -839,6 +902,7 @@
               "color": "#9CDDF2",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "mail",
@@ -858,19 +922,23 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://outlook.office.com/owa/"
+              "jumpto": "https://outlook.office.com/owa/",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/mail"
             },
             "rightData": {
               "key": ">",
               "title": ">",
-              "color": null,
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": null
+                "c": "#B2B3E2",
+                "index": 0
               }
             },
             "bottomData": null,
@@ -886,14 +954,15 @@
             "leftData": {
               "key": ">",
               "title": ">",
-              "color": "#9CDDF2",
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
+                "c": "#B2B3E2",
                 "index": 0
               }
             },
@@ -907,19 +976,22 @@
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
-              "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day"
+              "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/calendar"
             },
             "rightData": {
               "key": ">",
               "title": ">",
-              "color": "#9CDDF2",
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
+                "c": "#B2B3E2",
                 "index": 0
               }
             },
@@ -936,15 +1008,16 @@
             "leftData": {
               "key": ">",
               "title": ">",
-              "color": "#9CDDF2",
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
-                "index": 1
+                "c": "#B2B3E2",
+                "index": 0
               }
             },
             "topData": {
@@ -953,6 +1026,7 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -966,20 +1040,23 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://outlook.office.com/owa/?path=/people"
+              "jumpto": "https://outlook.office.com/owa/?path=/people",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/people"
             },
             "rightData": {
               "key": ">",
               "title": ">",
-              "color": "#9CDDF2",
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
-                "index": 1
+                "c": "#B2B3E2",
+                "index": 0
               }
             },
             "bottomData": null,
@@ -995,15 +1072,16 @@
             "leftData": {
               "key": ">",
               "title": ">",
-              "color": "#9CDDF2",
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
-                "index": 2
+                "c": "#B2B3E2",
+                "index": 0
               }
             },
             "topData": null,
@@ -1016,20 +1094,23 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://outlook.office.com/owa/?path=/tasks"
+              "jumpto": "https://outlook.office.com/owa/?path=/tasks",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/tasks"
             },
             "rightData": {
               "key": "<",
               "title": "<",
-              "color": "#B2B3E2",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#B2B3E2",
-                "index": 3
+                "c": "#AAE29F",
+                "index": 6
               }
             },
             "bottomData": null,
@@ -1048,10 +1129,10 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "todo",
-                  "planner",
                   "tasks"
                 ]
               }
@@ -1059,27 +1140,30 @@
             "topData": null,
             "centerData": {
               "key": "todo",
-              "title": "To-Do",
+              "title": "Todo",
               "color": "#3896f9",
               "icon": "https://jumpto365.com/resources/images/app/To-Do.png",
               "inShort": "To-do list for life & work [Wunderlist]",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://todo.microsoft.com/?app"
+              "jumpto": "https://todo.microsoft.com/?app",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/todo"
             },
             "rightData": {
-              "key": ">",
-              "title": ">",
-              "color": "#9CDDF2",
+              "key": "<",
+              "title": "<",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#9CDDF2",
-                "index": 3
+                "c": "#AAE29F",
+                "index": 6
               }
             },
             "bottomData": null,
@@ -1093,17 +1177,18 @@
             "t": 0,
             "b": 0,
             "leftData": {
-              "key": ">",
-              "title": ">",
+              "key": "<",
+              "title": "<",
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
                 "c": "#AAE29F",
-                "index": 4
+                "index": 6
               }
             },
             "topData": null,
@@ -1116,24 +1201,27 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://tasks.office.com/"
+              "jumpto": "https://tasks.office.com/",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/planner"
             },
             "rightData": {
               "key": "<",
               "title": "<",
-              "color": "#B2B3E2",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#B2B3E2",
-                "index": 5
+                "c": "#AAE29F",
+                "index": 6
               }
             },
             "bottomData": null,
-            "connectorColor": "#AAE29F"
+            "connectorColor": "#B2B3E2"
           },
           {
             "key": "project",
@@ -1145,14 +1233,15 @@
             "leftData": {
               "key": "<",
               "title": "<",
-              "color": "#B2B3E2",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#B2B3E2",
+                "c": "#AAE29F",
                 "index": 6
               }
             },
@@ -1160,13 +1249,15 @@
             "centerData": {
               "key": "project",
               "title": "Project Online",
-              "color": "#aaaaaa",
+              "color": "#2f722d",
               "icon": "https://jumpto365.com/resources/images/app/Project.png",
               "inShort": "Premium project management",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": 1,
-              "jumpto": "http://www.microsoftproject-online.com/"
+              "jumpto": "http://www.microsoftproject-online.com/",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/project"
             },
             "rightData": {
               "key": "proj",
@@ -1174,10 +1265,13 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "project",
-                  "planner"
+                  "planner",
+                  "todo",
+                  "tasks"
                 ]
               }
             },
@@ -1199,6 +1293,7 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "skype",
@@ -1216,19 +1311,23 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/skype"
             },
             "rightData": {
               "key": ">",
               "title": ">",
-              "color": null,
+              "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": null
+                "c": "#B2B3E2",
+                "index": 0
               }
             },
             "bottomData": {
@@ -1237,6 +1336,7 @@
               "color": "#6C6C6C",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -1256,6 +1356,7 @@
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
@@ -1274,7 +1375,9 @@
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
-              "jumpto": "https://teams.microsoft.com/"
+              "jumpto": "https://teams.microsoft.com/",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/teams"
             },
             "rightData": null,
             "bottomData": {
@@ -1283,6 +1386,7 @@
               "color": "#6C6C6C",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -1290,33 +1394,10 @@
             "connectorColor": "#B2B3E2"
           },
           {
-            "key": null,
-            "l": 0,
-            "c": 0,
-            "r": 0,
-            "t": 0,
-            "b": 1,
-            "leftData": null,
-            "topData": null,
-            "centerData": null,
-            "rightData": null,
-            "bottomData": {
-              "key": "comm",
-              "title": "Direct Communication",
-              "color": "#6C6C6C",
-              "borderColor": "",
-              "isConnector": false,
-              "members": {
-                "members": []
-              }
-            },
-            "connectorColor": "#ffffff"
-          },
-          {
             "key": "yammer",
             "l": 0,
             "c": 1,
-            "r": 1,
+            "r": 0,
             "t": 0,
             "b": 1,
             "leftData": null,
@@ -1330,26 +1411,18 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://www.yammer.com/"
+              "jumpto": "https://www.yammer.com/",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/yammer"
             },
-            "rightData": {
-              "key": "soc",
-              "title": "Social Networking",
-              "color": "#9CDDF2",
-              "borderColor": "",
-              "isConnector": false,
-              "members": {
-                "members": [
-                  "yammer"
-                ]
-              }
-            },
+            "rightData": null,
             "bottomData": {
               "key": "comm",
               "title": "Direct Communication",
               "color": "#6C6C6C",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": []
               }
@@ -1371,6 +1444,30 @@
             "connectorColor": "#ffffff"
           },
           {
+            "key": null,
+            "l": 1,
+            "c": 0,
+            "r": 0,
+            "t": 0,
+            "b": 0,
+            "leftData": {
+              "key": "_",
+              "title": "_",
+              "color": "",
+              "borderColor": "",
+              "isConnector": false,
+              "textColor": "",
+              "members": {
+                "members": []
+              }
+            },
+            "topData": null,
+            "centerData": null,
+            "rightData": null,
+            "bottomData": null,
+            "connectorColor": "#ffffff"
+          },
+          {
             "key": "bookings",
             "l": 0,
             "c": 1,
@@ -1381,14 +1478,16 @@
             "topData": null,
             "centerData": {
               "key": "bookings",
-              "title": "Bookings",
+              "title": "Bookings...",
               "color": "#25abb2",
               "icon": "https://jumpto365.com/resources/images/app/Bookings.png",
               "inShort": "Customer self-reservations",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "",
+              "subtitle": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/bookings"
             },
             "rightData": {
               "key": "<",
@@ -1396,12 +1495,13 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
               "colorMatch": {
                 "c": "#AAE29F",
-                "index": 5
+                "index": 6
               }
             },
             "bottomData": null,
@@ -1420,6 +1520,7 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
+              "textColor": "",
               "members": {
                 "members": []
               },
@@ -1438,7 +1539,9 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "",
+              "subtitle": "deprecating",
+              "contentRef": "/github.com/jumpto365/microsoft365/blob/master/docs/staffhub"
             },
             "rightData": {
               "key": "small",
@@ -1446,6 +1549,7 @@
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": false,
+              "textColor": "",
               "members": {
                 "members": [
                   "staffhub",
