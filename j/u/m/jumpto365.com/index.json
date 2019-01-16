@@ -5,7 +5,7 @@
   "navigation": [],
   "contexts": {
     "default": {
-      "title": "of Office365",
+      "title": "Office 365",
       "settings": {
         "byline": "Developed by Niels Gregers Johansen - jumpto365.com- niels@jumpto365.com",
         "titlegraphics": "https://jumpto365.com/resources/images/app/Title-EN.png"
@@ -340,8 +340,7 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://office.live.com/start/Excel.aspx",
-              "isHashed": true
+              "jumpto": "https://office.live.com/start/Excel.aspx"
             },
             "rightData": {
               "key": "<",
