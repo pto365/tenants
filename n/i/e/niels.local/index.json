@@ -328,7 +328,7 @@
         "centerData": {
           "key": "excel",
           "title": "Excel Online",
-          "color": "#70cea1",
+          "color": "#02723b",
           "icon": "https://jumpto365.com/resources/images/app/Excel.png",
           "inShort": "Spreadsheets in the browser",
           "isFullyShareable": 1,
@@ -545,8 +545,7 @@
           "isFullyShareable": 1,
           "isPartlyShareable": "",
           "isPremium": "",
-          "jumpto": "",
-          "isHashed": true
+          "jumpto": ""
         },
         "rightData": {
           "key": ">",
