@@ -6,6 +6,7 @@
   "contexts": {
     "default": {
       "title": "of Office365",
+      "version": 2,
       "settings": {
         "byline": "Developed by Niels Gregers Johansen - jumpto365.com- niels@jumpto365.com",
         "titlegraphics": "xhttps://jumpto365.com/resources/images/CogServicesTitle.png"
@@ -333,9 +334,9 @@
             "centerData": {
               "key": "blank1",
               "textcolor": "#cccccc",
-              "title": "My inbucket",
-              "color": "#6b3232",
-              "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Autosuggest.png",
+              "title": "Click to insert",
+              "color": "#ffffff",
+              "icon": null,
               "inShort": "1:4",
               "isFullyShareable": "",
               "isPartlyShareable": "",
@@ -503,15 +504,15 @@
               "key": "blank1",
               "textcolor": "#cccccc",
               "title": "Click to insert",
-              "color": "#ffffff",
-              "icon": null,
+              "color": "#4c2828",
+              "icon": "https://cloudguy.blob.core.windows.net/resources/icons/Search/Bing_Custom_Search.png",
               "inShort": "2:3",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": null,
               "subtitle": "",
-              "contentRef": ""
+              "contentRef": "/articles/niels@jumpto365.com/GDPR - Politiker.docx/5-gode-r-d-til-h-ndtering-af-personoplysninger"
             },
             "rightData": null,
             "bottomData": {},
