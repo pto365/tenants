@@ -39,7 +39,7 @@
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": 1,
-              "jumpto": ""
+              "jumpto": "https://home.dynamics.com/"
             },
             "rightData": null,
             "bottomData": null,
@@ -138,21 +138,22 @@
               "title": "Sway",
               "color": "#008272",
               "icon": "https://jumpto365.com/resources/images/app/Sway.png",
-              "inShort": "Präsentationen, nächste\\nGeneration",
+              "inShort": "Next-gen presentations",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "https://www.office.com/launch/sway"
             },
             "rightData": {
               "key": "pres",
-              "title": "Präsentationen",
+              "title": "Presentations",
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
               "members": {
                 "members": [
-                  "sway"
+                  "sway",
+                  "powerpoint"
                 ]
               }
             },
@@ -193,7 +194,7 @@
               "title": "Stream",
               "color": "#c30052",
               "icon": "https://jumpto365.com/resources/images/app/Stream.png",
-              "inShort": "Video-Portal [YouTube]",
+              "inShort": "Video portal [YouTube]",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
@@ -217,11 +218,11 @@
               "title": "Visio Online",
               "color": "#aaaaaa",
               "icon": "https://jumpto365.com/resources/images/app/Visio.png",
-              "inShort": "Diagramme im Browser",
+              "inShort": "Diagramming in the browser",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": 1,
-              "jumpto": ""
+              "jumpto": "https://office.live.com/start/Visio.aspx"
             },
             "rightData": null,
             "bottomData": null,
@@ -238,7 +239,7 @@
             "topData": null,
             "centerData": {
               "key": "emp",
-              "title": "MITARBEITER-PROFILE",
+              "title": "Employee Profiles",
               "color": "#B2B3E2",
               "icon": "",
               "inShort": "",
@@ -250,12 +251,15 @@
             "rightData": null,
             "bottomData": {
               "key": "emp",
-              "title": "MITARBEITER-PROFILE",
+              "title": "Employee Profiles",
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
               "members": {
-                "members": []
+                "members": [
+                  "delve",
+                  "people"
+                ]
               }
             }
           },
@@ -282,7 +286,7 @@
               "title": "Word Online",
               "color": "#2b579a",
               "icon": "https://jumpto365.com/resources/images/app/Word.png",
-              "inShort": "Textverarbeitung im Browser",
+              "inShort": "Word processing in the browser",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -333,7 +337,7 @@
               "title": "Excel Online",
               "color": "#02723b",
               "icon": "https://jumpto365.com/resources/images/app/Excel.png",
-              "inShort": "Tabellenkalkulation im Browser",
+              "inShort": "Spreadsheets in the browser",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -383,7 +387,7 @@
               "title": "OneNote Online",
               "color": "#80397b",
               "icon": "https://jumpto365.com/resources/images/app/OneNote.png",
-              "inShort": "Notizen im Browser [Evernote]",
+              "inShort": "Note taking in the browser [Evernote]",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -442,7 +446,7 @@
               "title": "PowerPoint Online",
               "color": "#d24726",
               "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
-              "inShort": "Präsentationen im Browser",
+              "inShort": "Presentations in the browser",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -450,7 +454,7 @@
             },
             "rightData": {
               "key": "online",
-              "title": "OFFICE ONLINE",
+              "title": "Office Online",
               "color": "#9CDDF2",
               "borderColor": "",
               "isConnector": false,
@@ -477,7 +481,7 @@
             "b": 0,
             "leftData": {
               "key": "file",
-              "title": "DATEIABLAGE & ZUSAMMENARBEIT",
+              "title": "File Storage & Collaboration",
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": false,
@@ -495,7 +499,7 @@
               "title": "SharePoint Online",
               "color": "#0072c6",
               "icon": "https://jumpto365.com/resources/images/app/SharePoint.png",
-              "inShort": "Intranet, Teamarbeit & Dokumente",
+              "inShort": "Team file sharing & storage",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -544,7 +548,7 @@
               "title": "OneDrive for Business",
               "color": "#1174c3",
               "icon": "https://jumpto365.com/resources/images/app/OneDrive.png",
-              "inShort": "Persönliche Dateiablage [Dropbox]",
+              "inShort": "Personal file storage [Dropbox]",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -603,7 +607,7 @@
               "title": "Delve",
               "color": "#1c7bb9",
               "icon": "https://jumpto365.com/resources/images/app/Delve.png",
-              "inShort": "Mitarbeiter-Profile & relevanter Content",
+              "inShort": "Employee profile & content discovery",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
@@ -631,7 +635,7 @@
             "b": 0,
             "leftData": {
               "key": "forms",
-              "title": "FORMULARE",
+              "title": "Forms",
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
@@ -648,7 +652,7 @@
               "title": "Forms",
               "color": "#008271",
               "icon": "https://jumpto365.com/resources/images/app/Forms.png",
-              "inShort": "Einfache Formulare und Umfragen [Survey Monkey]",
+              "inShort": "Simple forms & polls [SurveyMonkey]",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -698,7 +702,7 @@
               "title": "PowerApps",
               "color": "#742774",
               "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
-              "inShort": "Code-freie Formulare & mobile Apps",
+              "inShort": "Code-free mobile apps (& forms)",
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
@@ -748,7 +752,7 @@
               "title": "Flow",
               "color": "#0077ff",
               "icon": "https://jumpto365.com/resources/images/app/Flow.png",
-              "inShort": "Code-freie Workflows",
+              "inShort": "Code-free workflows [IFTTT]",
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
@@ -798,7 +802,7 @@
               "title": "Power BI",
               "color": "#f2c811",
               "icon": "https://jumpto365.com/resources/images/app/Power-BI.png",
-              "inShort": "Datenanalyse & Dashboards",
+              "inShort": "Business analytics & dashboards",
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": 1,
@@ -806,7 +810,7 @@
             },
             "rightData": {
               "key": "biz",
-              "title": "PLATTFORM FÜR GESCHÄFTLICHE APPS",
+              "title": "Business App Platform",
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": false,
@@ -832,7 +836,7 @@
             "b": 0,
             "leftData": {
               "key": "outlook",
-              "title": "OUTLOOK",
+              "title": "Outlook",
               "color": "#9CDDF2",
               "borderColor": "",
               "isConnector": false,
@@ -848,10 +852,10 @@
             "topData": null,
             "centerData": {
               "key": "mail",
-              "title": "E-Mail",
+              "title": "Mail",
               "color": "#2072b9",
               "icon": "https://jumpto365.com/resources/images/app/Mail.png",
-              "inShort": "Outlook E-Mail",
+              "inShort": "Outlook email",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -897,10 +901,10 @@
             "topData": null,
             "centerData": {
               "key": "calendar",
-              "title": "Kalender",
+              "title": "Calendar",
               "color": "#2072b9",
               "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
-              "inShort": "Outlook Kalender",
+              "inShort": "Outlook calendar",
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
@@ -956,10 +960,10 @@
             },
             "centerData": {
               "key": "people",
-              "title": "Personen",
+              "title": "People",
               "color": "#2072b9",
               "icon": "https://jumpto365.com/resources/images/app/People.png",
-              "inShort": "Outlook Kontakte",
+              "inShort": "Outlook contact list",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
@@ -1006,10 +1010,10 @@
             "topData": null,
             "centerData": {
               "key": "tasks",
-              "title": "Aufgaben",
+              "title": "Tasks",
               "color": "#2072b9",
               "icon": "https://jumpto365.com/resources/images/app/Tasks.png",
-              "inShort": "Outlook Aufgaben",
+              "inShort": "Outlook tasks",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
@@ -1041,13 +1045,15 @@
             "b": 0,
             "leftData": {
               "key": "tasks",
-              "title": "AUFGABEN-VERWALTUNG",
+              "title": "Task Management",
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": false,
               "members": {
                 "members": [
-                  "todo"
+                  "todo",
+                  "planner",
+                  "tasks"
                 ]
               }
             },
@@ -1057,24 +1063,24 @@
               "title": "To-Do",
               "color": "#3896f9",
               "icon": "https://jumpto365.com/resources/images/app/To-Do.png",
-              "inShort": "Aufgabenlisten [Wunderlist]",
+              "inShort": "To-do list for life & work [Wunderlist]",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "https://todo.microsoft.com/?app"
             },
             "rightData": {
-              "key": "<",
-              "title": "<",
-              "color": "#B2B3E2",
+              "key": ">",
+              "title": ">",
+              "color": "#9CDDF2",
               "borderColor": "",
               "isConnector": true,
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#B2B3E2",
-                "index": 4
+                "c": "#9CDDF2",
+                "index": 3
               }
             },
             "bottomData": null,
@@ -1088,17 +1094,17 @@
             "t": 0,
             "b": 0,
             "leftData": {
-              "key": "<",
-              "title": "<",
-              "color": "#B2B3E2",
+              "key": ">",
+              "title": ">",
+              "color": "#AAE29F",
               "borderColor": "",
               "isConnector": true,
               "members": {
                 "members": []
               },
               "colorMatch": {
-                "c": "#B2B3E2",
-                "index": 5
+                "c": "#AAE29F",
+                "index": 4
               }
             },
             "topData": null,
@@ -1107,7 +1113,7 @@
               "title": "Planner",
               "color": "#3c853c",
               "icon": "https://jumpto365.com/resources/images/app/Planner.png",
-              "inShort": "Alltags-Projekt- Management [Trello]",
+              "inShort": "Everyday project management [Trello]",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
@@ -1128,7 +1134,7 @@
               }
             },
             "bottomData": null,
-            "connectorColor": "#B2B3E2"
+            "connectorColor": "#AAE29F"
           },
           {
             "key": "project",
@@ -1157,7 +1163,7 @@
               "title": "Project Online",
               "color": "#aaaaaa",
               "icon": "https://jumpto365.com/resources/images/app/Project.png",
-              "inShort": "Professionelles Projekt- Management",
+              "inShort": "Premium project management",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": 1,
@@ -1165,16 +1171,14 @@
             },
             "rightData": {
               "key": "proj",
-              "title": "PROJEKT- MANAGEMENT",
+              "title": "Project Management",
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
               "members": {
                 "members": [
                   "project",
-                  "planner",
-                  "todo",
-                  "tasks"
+                  "planner"
                 ]
               }
             },
@@ -1192,7 +1196,7 @@
             "b": 1,
             "leftData": {
               "key": "chat",
-              "title": "CHAT & ONLINE-KONFERENZEN",
+              "title": "Chat & Conferencing",
               "color": "#B2B3E2",
               "borderColor": "",
               "isConnector": false,
@@ -1209,7 +1213,7 @@
               "title": "Skype for Business",
               "color": "#00aff0",
               "icon": "https://jumpto365.com/resources/images/app/Skype.png",
-              "inShort": "Instant-Messaging & Video-Chat",
+              "inShort": "Instant messaging & video chat [Skype]",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -1230,7 +1234,7 @@
             },
             "bottomData": {
               "key": "comm",
-              "title": "DIREKTE KOMMUNIKATION",
+              "title": "Direct Communication",
               "color": "#6C6C6C",
               "borderColor": "",
               "isConnector": false,
@@ -1246,7 +1250,7 @@
             "c": 1,
             "r": 0,
             "t": 0,
-            "b": 0,
+            "b": 1,
             "leftData": {
               "key": ">",
               "title": ">",
@@ -1267,14 +1271,23 @@
               "title": "Teams",
               "color": "#3f418e",
               "icon": "https://jumpto365.com/resources/images/app/Teams.png",
-              "inShort": "Gruppen & Video-Chat [Slack]",
+              "inShort": "Group chat & video chat [Slack]",
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
               "jumpto": "https://teams.microsoft.com/"
             },
             "rightData": null,
-            "bottomData": null,
+            "bottomData": {
+              "key": "comm",
+              "title": "Direct Communication",
+              "color": "#6C6C6C",
+              "borderColor": "",
+              "isConnector": false,
+              "members": {
+                "members": []
+              }
+            },
             "connectorColor": "#B2B3E2"
           },
           {
@@ -1283,12 +1296,21 @@
             "c": 0,
             "r": 0,
             "t": 0,
-            "b": 0,
+            "b": 1,
             "leftData": null,
             "topData": null,
             "centerData": null,
             "rightData": null,
-            "bottomData": null,
+            "bottomData": {
+              "key": "comm",
+              "title": "Direct Communication",
+              "color": "#6C6C6C",
+              "borderColor": "",
+              "isConnector": false,
+              "members": {
+                "members": []
+              }
+            },
             "connectorColor": "#ffffff"
           },
           {
@@ -1297,7 +1319,7 @@
             "c": 1,
             "r": 1,
             "t": 0,
-            "b": 0,
+            "b": 1,
             "leftData": null,
             "topData": null,
             "centerData": {
@@ -1305,7 +1327,7 @@
               "title": "Yammer",
               "color": "#007dc6",
               "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
-              "inShort": "Soziales Netzwerk [Facebook]",
+              "inShort": "Social network [Facebook]",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
@@ -1313,7 +1335,7 @@
             },
             "rightData": {
               "key": "soc",
-              "title": "SOZIALE NETZWERKE",
+              "title": "Social Networking",
               "color": "#9CDDF2",
               "borderColor": "",
               "isConnector": false,
@@ -1323,7 +1345,16 @@
                 ]
               }
             },
-            "bottomData": null,
+            "bottomData": {
+              "key": "comm",
+              "title": "Direct Communication",
+              "color": "#6C6C6C",
+              "borderColor": "",
+              "isConnector": false,
+              "members": {
+                "members": []
+              }
+            },
             "connectorColor": "#ffffff"
           },
           {
@@ -1354,7 +1385,7 @@
               "title": "Bookings",
               "color": "#25abb2",
               "icon": "https://jumpto365.com/resources/images/app/Bookings.png",
-              "inShort": "Reservierungen per Selbstbedienung",
+              "inShort": "Customer self-reservations",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
@@ -1404,7 +1435,7 @@
               "title": "StaffHub",
               "color": "#25c8c2",
               "icon": "https://jumpto365.com/resources/images/app/StaffHub.png",
-              "inShort": "Mitarbeiter-Verwal- tung & Planung",
+              "inShort": "Frontline employee hub & scheduler",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
@@ -1412,7 +1443,7 @@
             },
             "rightData": {
               "key": "small",
-              "title": "ANWENDUNGEN FÜR KLEINE UNTERNEHMEN",
+              "title": "Small Business Applications",
               "color": "#AAE29F",
               "borderColor": "",
               "isConnector": false,
