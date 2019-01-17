@@ -582,7 +582,7 @@
                     "contentRef": ""
                   },
                   "rightData": {
-                    "key": "<",
+                    "key": "_",
                     "title": "<",
                     "color": "#AAE29F",
                     "borderColor": "",
@@ -607,7 +607,7 @@
                   "t": 0,
                   "b": 0,
                   "leftData": {
-                    "key": "<",
+                    "key": "_",
                     "title": "<",
                     "color": "#AAE29F",
                     "borderColor": "",
@@ -636,7 +636,7 @@
                     "contentRef": ""
                   },
                   "rightData": {
-                    "key": "<",
+                    "key": "_",
                     "title": "<",
                     "color": "#AAE29F",
                     "borderColor": "",
