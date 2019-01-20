@@ -40,7 +40,8 @@
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": 1,
-              "jumpto": "https://home.dynamics.com/"
+              "jumpto": "https://home.dynamics.com/",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/dynamics365"
             },
             "rightData": null,
             "bottomData": null,
@@ -143,7 +144,8 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://www.office.com/launch/sway"
+              "jumpto": "https://www.office.com/launch/sway",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/sway"
             },
             "rightData": {
               "key": "pres",
@@ -199,7 +201,8 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://web.microsoftstream.com/"
+              "jumpto": "https://web.microsoftstream.com/",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/stream"
             },
             "rightData": null,
             "bottomData": null,
@@ -223,7 +226,8 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": 1,
-              "jumpto": "https://office.live.com/start/Visio.aspx"
+              "jumpto": "https://office.live.com/start/Visio.aspx",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/visio"
             },
             "rightData": null,
             "bottomData": null,
@@ -247,7 +251,8 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/emp"
             },
             "rightData": null,
             "bottomData": {
@@ -286,13 +291,13 @@
               "key": "word",
               "title": "Word Online",
               "color": "#2b579a",
-              "icon": "https://jumpto365.com/resources/images/Icons/Word New.png",
+              "icon": "https://jumpto365.com/resources/images/app/Word.png",
               "inShort": "Word processing in the browser",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "https://office.live.com/start/Word.aspx",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/word"
             },
             "rightData": {
               "key": "<",
@@ -337,13 +342,13 @@
               "key": "excel",
               "title": "Excel Online",
               "color": "#02723b",
-              "icon": "https://jumpto365.com/resources/images/Icons/Excel New.png",
+              "icon": "https://jumpto365.com/resources/images/app/Excel.png",
               "inShort": "Spreadsheets in the browser",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "https://office.live.com/start/Excel.aspx",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/excel"
             },
             "rightData": {
               "key": "<",
@@ -388,13 +393,13 @@
               "key": "onenote",
               "title": "OneNote Online",
               "color": "#80397b",
-              "icon": "https://jumpto365.com/resources/images/Icons/OneNote New.png",
+              "icon": "https://jumpto365.com/resources/images/app/OneNote.png",
               "inShort": "Note taking in the browser [Evernote]",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "https://www.onenote.com/notebooks",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/onenote"
             },
             "rightData": {
               "key": "<",
@@ -448,13 +453,13 @@
               "key": "powerpoint",
               "title": "PowerPoint Online",
               "color": "#d24726",
-              "icon": "https://jumpto365.com/resources/images/Icons/PowerPoint New.png",
+              "icon": "https://jumpto365.com/resources/images/app/PowerPoint.png",
               "inShort": "Presentations in the browser",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "https://office.live.com/start/PowerPoint.aspx",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/powerpoint"
             },
             "rightData": {
               "key": "online",
@@ -502,13 +507,13 @@
               "key": "sharepoint",
               "title": "SharePoint Online",
               "color": "#0072c6",
-              "icon": "https://jumpto365.com/resources/images/Icons/SharePoint New.png",
+              "icon": "https://jumpto365.com/resources/images/app/SharePoint.png",
               "inShort": "Team file sharing & storage",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/sharepoint"
             },
             "rightData": {
               "key": ">",
@@ -552,13 +557,13 @@
               "key": "onedrive",
               "title": "OneDrive for Business",
               "color": "#1174c3",
-              "icon": "https://jumpto365.com/resources/images/Icons/OneDrive for Business New.png",
+              "icon": "https://jumpto365.com/resources/images/app/OneDrive.png",
               "inShort": "Personal file storage [Dropbox]",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/onedrive"
             },
             "rightData": {
               "key": ">",
@@ -618,7 +623,7 @@
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/delve"
             },
             "rightData": null,
             "bottomData": {
@@ -663,7 +668,8 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://forms.office.com/"
+              "jumpto": "https://forms.office.com/",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/forms"
             },
             "rightData": {
               "key": ">",
@@ -708,13 +714,13 @@
               "key": "powerapps",
               "title": "PowerApps",
               "color": "#742774",
-              "icon": "https://jumpto365.com/resources/images/Icons/PowerApps White.png",
+              "icon": "https://jumpto365.com/resources/images/app/PowerApps.png",
               "inShort": "Code-free mobile apps (& forms)",
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
               "jumpto": "https://web.powerapps.com/home",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/powerapps"
             },
             "rightData": {
               "key": "<",
@@ -764,7 +770,8 @@
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
-              "jumpto": "https://flow.microsoft.com/en-us/"
+              "jumpto": "https://flow.microsoft.com/en-us/",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/flow"
             },
             "rightData": {
               "key": "<",
@@ -814,7 +821,8 @@
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": 1,
-              "jumpto": "https://app.powerbi.com/"
+              "jumpto": "https://app.powerbi.com/",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/powerbi"
             },
             "rightData": {
               "key": "biz",
@@ -862,13 +870,13 @@
               "key": "mail",
               "title": "Mail",
               "color": "#2072b9",
-              "icon": "https://jumpto365.com/resources/images/Icons/Outlook new.png",
+              "icon": "https://jumpto365.com/resources/images/app/Mail.png",
               "inShort": "Outlook email",
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "https://outlook.office.com/owa/",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/mail"
             },
             "rightData": {
               "key": ">",
@@ -912,13 +920,13 @@
               "key": "calendar",
               "title": "Calendar",
               "color": "#2072b9",
-              "icon": "https://jumpto365.com/resources/images/Icons/Outlook new.png",
+              "icon": "https://jumpto365.com/resources/images/app/Calendar.png",
               "inShort": "Outlook calendar",
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
               "jumpto": "https://outlook.office.com/owa/?path=/calendar/view/Day",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/calendar"
             },
             "rightData": {
               "key": ">",
@@ -972,13 +980,13 @@
               "key": "people",
               "title": "People",
               "color": "#2072b9",
-              "icon": "https://jumpto365.com/resources/images/Icons/Outlook new.png",
+              "icon": "https://jumpto365.com/resources/images/app/People.png",
               "inShort": "Outlook contact list",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "https://outlook.office.com/owa/?path=/people",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/people"
             },
             "rightData": {
               "key": ">",
@@ -1028,7 +1036,8 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://outlook.office.com/owa/?path=/tasks"
+              "jumpto": "https://outlook.office.com/owa/?path=/tasks",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/tasks"
             },
             "rightData": {
               "key": "<",
@@ -1078,7 +1087,8 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://todo.microsoft.com/?app"
+              "jumpto": "https://todo.microsoft.com/?app",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/todo"
             },
             "rightData": {
               "key": ">",
@@ -1128,7 +1138,8 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": "https://tasks.office.com/"
+              "jumpto": "https://tasks.office.com/",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/planner"
             },
             "rightData": {
               "key": "<",
@@ -1178,7 +1189,8 @@
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": 1,
-              "jumpto": "http://www.microsoftproject-online.com/"
+              "jumpto": "http://www.microsoftproject-online.com/",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/project"
             },
             "rightData": {
               "key": "proj",
@@ -1228,7 +1240,8 @@
               "isFullyShareable": 1,
               "isPartlyShareable": "",
               "isPremium": "",
-              "jumpto": ""
+              "jumpto": "",
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/skype"
             },
             "rightData": {
               "key": ">",
@@ -1281,13 +1294,13 @@
               "key": "teams",
               "title": "Teams",
               "color": "#3f418e",
-              "icon": "https://jumpto365.com/resources/images/Icons/Teams New.png",
+              "icon": "https://jumpto365.com/resources/images/app/Teams.png",
               "inShort": "Group chat & video chat [Slack]",
               "isFullyShareable": "",
               "isPartlyShareable": 1,
               "isPremium": "",
               "jumpto": "https://teams.microsoft.com/",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/teams"
             },
             "rightData": null,
             "bottomData": {
@@ -1338,13 +1351,13 @@
               "key": "yammer",
               "title": "Yammer",
               "color": "#007dc6",
-              "icon": "https://jumpto365.com/resources/images/Icons/Yammer New.png",
+              "icon": "https://jumpto365.com/resources/images/app/Yammer.png",
               "inShort": "Social network [Facebook]",
               "isFullyShareable": "",
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "https://www.yammer.com/",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/yammer"
             },
             "rightData": {
               "key": "soc",
@@ -1403,7 +1416,7 @@
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "",
-              "contentRef": null
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/bookings"
             },
             "rightData": {
               "key": "<",
@@ -1454,8 +1467,7 @@
               "isPartlyShareable": "",
               "isPremium": "",
               "jumpto": "",
-              "contentRef": null,
-              "subTitle": "Replaced by Teams"
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/staffhub"
             },
             "rightData": {
               "key": "small",
