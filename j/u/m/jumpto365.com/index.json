@@ -227,8 +227,7 @@
               "isPartlyShareable": "",
               "isPremium": 1,
               "jumpto": "https://office.live.com/start/Visio.aspx",
-              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/visio",
-              "isHashed": true
+              "contentRef": "/github.com/jumpto365/microsoft365/master/docs/visio"
             },
             "rightData": null,
             "bottomData": null,
